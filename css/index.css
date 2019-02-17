@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+header{
+    float: left;
+}
+#world{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: linear-gradient(#62BEE8, #F1A41D);
+}
